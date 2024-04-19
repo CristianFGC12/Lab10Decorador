@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\bin\Debug\net6.0\EjemploPatron.exe
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\bin\Debug\net6.0\EjemploPatron.deps.json
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\bin\Debug\net6.0\EjemploPatron.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\bin\Debug\net6.0\EjemploPatron.dll
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\bin\Debug\net6.0\EjemploPatron.pdb
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\obj\Debug\net6.0\EjemploPatron.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\obj\Debug\net6.0\EjemploPatron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\obj\Debug\net6.0\EjemploPatron.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\obj\Debug\net6.0\EjemploPatron.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\obj\Debug\net6.0\EjemploPatron.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\obj\Debug\net6.0\EjemploPatron.dll
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\obj\Debug\net6.0\refint\EjemploPatron.dll
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\obj\Debug\net6.0\EjemploPatron.pdb
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\obj\Debug\net6.0\EjemploPatron.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\EjemploPatron\EjemploPatron\obj\Debug\net6.0\ref\EjemploPatron.dll
